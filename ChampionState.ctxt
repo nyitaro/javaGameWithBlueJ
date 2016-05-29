@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=st
+comment0.target=ChampionState(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ ChampionSate\r\n\ @param\ state\ String\ st\ as\ a\ parameter\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Method\ which\ return\ a\ string\ represantion\ of\ state.\r\n\ FORHIRE("\ For\ hire"),\ ACTIVE("\ Active"),RESTING("\ Resting"),DEAD\ ("\ Dead");\ \r\n
+numComments=2

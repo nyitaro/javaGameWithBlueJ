@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=challengeType\ challengerNam\ lvl\ rwd
+comment0.target=Challenge(ChallengeType,\ java.lang.String,\ int,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ the\ class\ Challenge\ \r\n\ @param\ challID\ champion\ name\r\n\ @param\ ChallengeType\ challengeType\ \r\n\ @param\ challengerNam\ challenger\ name\r\n\ @param\ lvl\ challenge\ level\r\n\ @param\ rwd\ challenge\ reward\r\n
+comment1.params=
+comment1.target=int\ getChallengeID()
+comment1.text=\r\n\ Returns\ the\ value\ of\ challenge\ ID\ no\ in\ the\ form\ of\ int\r\n
+comment2.params=
+comment2.target=java.lang.String\ challengerName()
+comment2.text=\r\n\ Returns\ the\ value\ of\ challenge\ name\ in\ the\ form\ of\ String\r\n
+comment3.params=
+comment3.target=int\ getLevel()
+comment3.text=\r\n\ Returns\ the\ value\ of\ challenge\ level\ no\ in\ the\ form\ of\ int\r\n
+comment4.params=
+comment4.target=double\ getReward()
+comment4.text=\r\n\ Returns\ the\ value\ of\ reward\ for\ winning\ the\ challenge\ in\ the\ form\ of\ double\ \r\n\ as\ the\ fee\ assigned\ for\ Warrior\ is\ up\ to\ the\ user\ end\ (\ they\ may\ input\ a\ value\ of\ double\ and\ if\ we\ \r\n\ used\ int\ -\ it\ will\ not\ work\ properly).\ Therefore\ using\ the\ double\ instead\ of\ integer\ is\ more\ efficient\r\n
+comment5.params=
+comment5.target=ChallengeType\ getChallengeType()
+comment5.text=\r\n\ Returns\ the\ challenge\ type\ of\ the\ challenge\ from\ the\ class\ Challenge\ Type\ (enumaration\ of\ the\ challenge\ type)\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Prints\ out\ the\ fields\ that\ makes\ up\ the\ challenge\ constructor\ in\ the\ string\ form\r\n\ so\ that\ it\ can\ be\ used\ in\ a\ more\ efficient\ manner\ by\ other\ classes.\r\n
+numComments=7

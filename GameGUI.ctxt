@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameGUI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameGUI\r\n
+comment1.params=frame
+comment1.target=void\ makeMenuBar(javax.swing.JFrame)
+comment1.text=\r\n\ Menu\ bar\ set\ up\ using\ Jframe\r\n\ This\ is\ where\ the\ players\ menu\ option\ is\ created\r\n
+comment2.params=
+comment2.target=void\ makeFrame()
+numComments=3

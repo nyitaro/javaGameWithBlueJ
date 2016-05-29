@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ty
+comment0.target=ChallengeType(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ ChallengeType\r\n\ @param\ type\ String\ ty\ as\ a\ parameter\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Method\ which\ return\ a\ string\ represantion\ of\ type.\r\n\ MAGIC("\ Magic"),\ FIGHT("Fight"),\ MYSTERY\ ("Mystery");\r\n
+numComments=2

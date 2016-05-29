@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ talk
+comment0.target=Dragon(java.lang.String,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ a\ Dragon\r\n\ @param\ name\ dragon\ name\r\n\ @param\ talk\ \ dragon\ ability\ to\ talk\r\n\ Dragons\ skill\ level\ and\ hire\ fee\ are\ not\ set\ up\ by\ the\ constructor\ because\ dragons\ have\ a\r\n\ fixed\ level\ of\ skill\ (7)\ and\ a\ fixed\ hireFee\ (500)\r\n\ This\ is\ set\ up\ using\ the\ super\ constructor\ to\ crete\ the\ new\ dragons\ with\ these\ default\ values\r\n
+comment1.params=
+comment1.target=boolean\ canTalk()
+comment1.text=\r\n\ Method\ that\ returns\ a\ boolean\ value\ either\ true\ or\ false\ wether\ a\ Dragon\ has\ the\ ability\ to\ talk\r\n
+comment2.params=chal
+comment2.target=boolean\ canFight(Challenge)
+comment2.text=\r\n\ Method\ which\ check\ whether\ a\ Dragon\ is\ able\ to\ meet\ the\ challenge\ stated\ on\ the\ paramenters\r\n\ This\ method\ has\ several\ conditions\ \r\n\ A\ dragon\ is\ always\ able\ to\ meet\ a\ FIGHT\ type\ challenge\ only\ when\ is\ ACTIVE\r\n\ A\ dragon\ is\ also\ able\ to\ meet\ a\ MYSTERY\ type\ challenge\ only\ if\ the\ dragon\ is\ able\ to\ talk\ \r\n\ and\ it\ is\ in\ an\ ACTIVE\ state\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ To\ string\ method\ which\ shows\ all\ dragon\ information\r\n\ most\ of\ the\ details\ are\ retrived\ using\ a\ toString()\ method\ from\ the\ Champion\ class\r\n\ Additionaly\ the\ talk\ field\ has\ been\ added\ to\ show\ if\ the\ dragon\ is\ able\ to\ talk\r\n
+numComments=4
